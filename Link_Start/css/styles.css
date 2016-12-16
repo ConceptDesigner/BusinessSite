@@ -19,14 +19,15 @@ body {
     border: 1px solid #ffffff;
     text-align: center;
     padding: 20px;
+
 }
 
 .bodyContainer {
-    display: inline-block;
-    height: 100px;
-    width: 166px;
+    max-width:1200px;
+    height: 300px;
     border:1px solid #ffffff;
     margin: auto;
+    text-align: center;
     
 }
 
@@ -52,6 +53,31 @@ li a {
 
 li a:hover {
     background-color: #111;
+}
+
+#linkedLogo {
+  margin-top: 1%;
+  
+}
+#twitterLogo {
+  margin-left: 10%;
+  margin-top: 1%;
+  
+}
+#facebookLogo {
+  margin-left: 10%;
+  margin-top: 1%;
+  
+}
+#instagramLogo {
+  margin-left: 10%;
+  margin-top: 1%;
+  
+}
+#googlePlusLogo {
+  margin-left: 10%;
+  margin-top: 1%;
+  
 }
 
 
